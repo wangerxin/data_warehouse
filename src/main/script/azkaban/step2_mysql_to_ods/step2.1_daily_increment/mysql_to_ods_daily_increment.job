@@ -1,0 +1,3 @@
+type=command
+command=sh  ./../../../import/daily_increment/import.sh
+

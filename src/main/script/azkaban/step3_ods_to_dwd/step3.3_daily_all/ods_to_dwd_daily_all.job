@@ -1,0 +1,3 @@
+type=command
+command=sh  ./../../../warehouse/ods_to_dwd/daily_all/fact_table.sh;sh  ./../../../warehouse/ods_to_dwd/daily_all/dimension_table.sh
+dependencies=ods_to_dwd_daily_increment_and_update

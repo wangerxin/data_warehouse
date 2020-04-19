@@ -1,0 +1,4 @@
+type=command
+command=sh  ./../../../import/daily_increment_and_update/import.sh
+dependencies=mysql_to_ods_daily_increment
+
